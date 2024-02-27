@@ -1,6 +1,6 @@
 # 0x1D. C - Binary trees
 
-[!Binary Trees](https://www.geeksforgeeks.org/wp-content/uploads/binary-tree-to-DLL.png)
+![Binary Trees](https://www.geeksforgeeks.org/wp-content/uploads/binary-tree-to-DLL.png)
 
 This project will the about the hierarchical abstract data structure known as __Binary Trees__. We will look at how binary trees work their uses and how to implement them.
 
